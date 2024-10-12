@@ -1,0 +1,76 @@
+{
+  "header": {
+    "logo": "Echos de Sagesse",
+    "menu": [
+      {
+        "text": "Accueil",
+        "href": "#accueil"
+      },
+      {
+        "text": "Avantages",
+        "href": "#avantages"
+      },
+      {
+        "text": "Témoignages",
+        "href": "#temoignages"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Simplifiez votre quotidien et donnez du sens à votre vie",
+    "subtitle": "Découvrez gratuitement les conseils pratiques des grands penseurs pour surmonter vos défis personnels",
+    "cta": "Je veux mes solutions concrètes"
+  },
+  "intro": {
+    "title": "Des réponses simples à vos questions complexes",
+    "description": "Cet ebook gratuit vous offre des solutions concrètes, inspirées par la sagesse des Anciens, pour gérer votre stress, améliorer vos relations et trouver l'équilibre entre vie professionnelle et personnelle."
+  },
+  "benefits": {
+    "title": "Comment cet ebook va transformer votre quotidien",
+    "items": [
+      {
+        "title": "Gagnez en sérénité",
+        "description": "Apprenez à gérer efficacement votre stress et vos émotions pour une vie plus apaisée."
+      },
+      {
+        "title": "Améliorez vos relations",
+        "description": "Découvrez les clés d'une communication authentique pour des échanges plus harmonieux."
+      },
+      {
+        "title": "Trouvez votre équilibre",
+        "description": "Conciliez vie professionnelle et personnelle grâce à des astuces d'organisation simples."
+      }
+    ],
+    "cta": "Je veux ces conseils pratiques"
+  },
+  "form": {
+    "title": "Recevez vos solutions dès maintenant",
+    "countdown": "Offre spéciale : plus que",
+    "placeholder": "Votre e-mail pour recevoir votre guide",
+    "button": "Obtenir mes solutions gratuites"
+  },
+  "testimonials": {
+    "title": "Ils ont transformé leur vie grâce à nos conseils",
+    "items": [
+      {
+        "quote": "J'étais sceptique au début, mais cet ebook m'a vraiment aidée à prendre du recul et à mieux gérer mes émotions. Je le recommande à tous ceux qui cherchent à améliorer leur bien-être.",
+        "author": "Sophie M., 42 ans, professeure des écoles",
+        "photo": "/images/sophie-m.jpeg"
+      },
+      {
+        "quote": "Grâce aux conseils pratiques de cet ebook, j'ai enfin réussi à organiser mon temps et à me concentrer sur mes priorités. Je me sens plus serein et productif au quotidien.",
+        "author": "Marc L., 55 ans, entrepreneur",
+        "photo": "/images/marc-l.jpeg"
+      },
+      {
+        "quote": "Mes sincères remerciements pour ces leçons enrichissantes sur le développement personnel.",
+        "author": "Sandrine P., mère de famille",
+        "photo": "/images/sandrine-p.jpeg"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2024 Échos de Sagesse - Tous droits réservés",
+    "privacyPolicy": "Politique de confidentialité"
+  }
+}
